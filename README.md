@@ -9,7 +9,7 @@
 ![Image](https://github-readme-stats.vercel.app/api?username=Buldugmaster99&theme=gotham&count_private=true&show_icons=true)
 
 ### Personal
-![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Buldugmaster99&theme=gotham&layout=compact&langs_count=14&count_private=true)
+![Image](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Buldugmaster99&theme=gotham&langs_count=14&layout=compact&count_private=true)
 
 ### With Organisations
 ![Image](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Buldugmaster99&theme=gotham&langs_count=14&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html)
