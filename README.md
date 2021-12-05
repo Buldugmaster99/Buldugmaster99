@@ -3,7 +3,8 @@
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?style=flat&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Language-Go-blue?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java&logoColor=white)
+![JS](https://img.shields.io/badge/Language-javascript-blue?style=flat&logo=javascript&logoColor=white)
 
 
 ![Image](https://github-readme-stats.vercel.app/api?username=Buldugmaster99&theme=gotham&count_private=true&show_icons=true)
